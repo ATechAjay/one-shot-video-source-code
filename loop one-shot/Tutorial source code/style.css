@@ -1,0 +1,21 @@
+body {
+  background: #333;
+  color: #fff;
+}
+
+.container {
+  display: flex;
+  gap: 18px;
+  flex-wrap: wrap;
+  margin: 30px;
+}
+
+button {
+  font-size: 32px;
+  padding: 7px 15px;
+  border: 2px solid #fff;
+  background: purple;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
